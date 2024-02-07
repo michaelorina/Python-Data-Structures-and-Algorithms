@@ -1,0 +1,11 @@
+Classes are like cookie cutter 
+
+Built in cookie cutter 
+Create integer, string 
+
+class Cookie:
+
+constructor def _init_(self, color):
+    self.color = color 
+
+cookie_one = cookie('green')

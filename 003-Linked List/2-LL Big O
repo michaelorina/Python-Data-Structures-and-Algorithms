@@ -1,0 +1,11 @@
+append = O(1)
+remove from the end = O(n) 
+
+add to the front = O(1)
+remove from the front = O(1)
+
+add in the middle = O(n)
+removing in the moddle = O(n)
+
+
+Lookup = O(n)

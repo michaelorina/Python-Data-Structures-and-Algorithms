@@ -1,4 +1,4 @@
-def pop(self, value):
+def pop(self):
 
     if self.length == 0:
         return None

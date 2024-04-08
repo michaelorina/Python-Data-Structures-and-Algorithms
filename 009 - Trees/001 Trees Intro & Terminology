@@ -1,0 +1,21 @@
+Linked List 
+
+value
+left
+right
+
+Full Tree - 0 nodes or 2 nodes
+
+Not Full 
+
+Perfect Tree - Completely filled
+
+Complete tree - From left to right with no gaps
+
+Parent nodes
+child node 
+Siblings 
+
+Only 1 parent 
+
+Leaf - Node with no children
